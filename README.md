@@ -1,1 +1,1 @@
-# nike-homepage-clone
+This is a simple Nike homepage clone built using HTML and CSS for practice and learning purposes.
